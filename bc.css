@@ -1,0 +1,26 @@
+body{
+    background-image: url(.//images/backgorund.png);
+    background-repeat: no-repeat;
+    font-family: 'Roboto Mono', monospace;
+}
+
+#shadowh1{
+    text-shadow: 1px 1px 2px black;
+    text-indent: 17px;
+}
+
+.instagramItem{
+    list-style-image: url(./images/Insta.png);
+}
+
+.twitterItem{
+    list-style-image: url(./images/Twitter.png);
+}
+
+.youtubeItem{
+    list-style-image: url(./images/Youtube.png);
+}
+
+li{
+    list-style-type: none;
+}
